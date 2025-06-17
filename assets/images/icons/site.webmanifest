@@ -1,0 +1,14 @@
+{
+    "name": "Fansly",
+    "short_name": "Fansly",
+    "icons": [
+        {
+            "src": "/assets/images/icons/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#15161a",
+    "background_color": "#15161a",
+    "display": "standalone"
+}
